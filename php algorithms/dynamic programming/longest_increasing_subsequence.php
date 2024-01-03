@@ -1,6 +1,6 @@
 <?php
 
-class Solution
+class longest_increasing_subsequence
 {
 
     /**
